@@ -15,3 +15,6 @@ Criar duas contas com Saldo e salvar os seus dados.
 Acessar uma conta e realizar uma transferência de valor para outra.
 4.
 Validar a saída e entrada das contas envolvidas.
+
+Obs: Não foi alterado o logo do relatório por se tratar da prova do Banrisul, 
+caso fosse um projeto para outra empresa, teria sido modificado.
